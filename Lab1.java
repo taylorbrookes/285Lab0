@@ -15,6 +15,6 @@ public class Fraction implements INumber {
 
 //define Array of Fractions
 
-//find most frequent value in array
-//implement inserion sort
-//implement recursive method 
+//find most frequent value in array (joseph)
+//implement inserion sort (dorina)
+//implement recursive method (jove)
