@@ -28,7 +28,7 @@ public static void main(String[] args) {
 }
 
 
-
+//Joseph Rumery
 public Fraction findFrequent(Fraction[] input) {
 	
 	//count1 holds the number of copies of currently tested 
